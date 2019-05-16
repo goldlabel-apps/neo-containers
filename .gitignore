@@ -2,16 +2,13 @@
 
 # dependencies
 /node_modules
-/.pnp
-.pnp.js
 
 # Firebase
 .firebase
 
 # .env
-# .env.production
-# .env.development
-# .env.test
+.env.production
+.env.development
 
 # dev
 /dev
